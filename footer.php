@@ -1,0 +1,1 @@
+</main><footer><div class="wrap foot"><div><b>K2 Career Hub</b><p>Education discovery, admissions and student record management.</p></div><div>Schools · Colleges · Universities · Courses · Exams · Distance Education · Study Abroad</div><div class="small">Local demo build • Sample data only</div></div></footer><script src="<?=h(BASE_URL)?>/assets/app.js"></script></body></html>
